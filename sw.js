@@ -26,41 +26,37 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-ae645215eef0d60b951a.js"
+    "url": "webpack-runtime-104697fa2092b7a11ffa.js"
   },
   {
-    "url": "styles.df01dd6697176aea6581.css"
+    "url": "styles.5f81339daa9828444137.css"
   },
   {
     "url": "styles-652bd96731c07d176141.js"
   },
   {
-    "url": "app-69e751dbecb6463b4de6.js"
+    "url": "app-f99f5dd057c5ba5c5692.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-fd7edd369e267dad4496.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "dc4ba6f7ea5babaa71ec6454a94e948f"
+    "revision": "1a9ffa26d4709affd02f40dccc3f2c19"
   },
   {
-    "url": "component---src-pages-404-js-02f59e300833de580aaa.js"
+    "url": "component---src-pages-404-js-621c5ea781895cafdce3.js"
   },
   {
     "url": "0-f1e21c12b6f552990213.js"
   },
   {
     "url": "page-data/404.html/page-data.json",
-    "revision": "877ce680ec2201a8ca76f36f6e6e618e"
-  },
-  {
-    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
-    "revision": "6cdf6da611c10b141243e990df6a0ccb"
+    "revision": "cc779b596c0535f390f7a1f9ac1dbf3e"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "9657775b68862db0f366cfe11943fa70"
+    "revision": "50151a32a1656aeff9c06251359be96b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
@@ -82,7 +78,7 @@ const navigationRoute = new workbox.routing.NavigationRoute(({ event }) => {
   return idbKeyval.get(WHITELIST_KEY).then((customWhitelist = []) => {
     // Respond with the offline shell if we match the custom whitelist
     if (customWhitelist.includes(pathname)) {
-      const offlineShell = `/laurahanu-blog.github.io/offline-plugin-app-shell-fallback/index.html`
+      const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
       const cacheName = workbox.core.cacheNames.precache
 
       return caches.match(offlineShell, { cacheName }).then(cachedResponse => {
@@ -154,7 +150,7 @@ const messageApi = {
 
     pathnames = pathnames.map(({ pathname, includesPrefix }) => {
       if (!includesPrefix) {
-        return `/laurahanu-blog.github.io${pathname}`
+        return `${pathname}`
       } else {
         return pathname
       }

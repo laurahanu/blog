@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://github.com/laurahanu/blog/tree/gh-pages</link><generator>RSS for Node</generator><lastBuildDate>Thu, 08 Aug 2019 18:14:22 GMT</lastBuildDate><item><title><![CDATA[Deep learning resources]]></title><description><![CDATA[ML-Resources 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://github.com/laurahanu/blog/tree/gh-pages</link><generator>RSS for Node</generator><lastBuildDate>Thu, 08 Aug 2019 18:22:37 GMT</lastBuildDate><item><title><![CDATA[Deep learning resources]]></title><description><![CDATA[ML-Resources 
  Deep Learning Resources Motivation The aim of this project is to provide a curated list of high-quality Deep Learning…]]></description><link>https://github.com/laurahanu/blog/tree/gh-pages/machine-learning-resources/</link><guid isPermaLink="false">https://github.com/laurahanu/blog/tree/gh-pages/machine-learning-resources/</guid><pubDate>Thu, 08 Aug 2019 22:12:03 GMT</pubDate><content:encoded>&lt;h1&gt;ML-Resources&lt;/h1&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 512px;&quot;&gt;
-      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAFNElEQVQ4y02VeUwUVxzHp6wS+0/7l6aNprFWU5seiRoxba2AotTqsmUX9mBnZnfBIpcgKLcipygWq6WIRLkERWIrlavIciyIWxWWU2y0VkulGLCtEqoCO/u+fW8F00lm3puZN5/5fn/HDOfl5eHiudFdRneXc5lfunKz20Q9v/p5k5AybRbq6NgHi9g/Ws03Xi/hk46l6NN9NP7L3lqv8XTbbliy2E2xlD3j5r5ZxjHYVm+Pecfitjthj2r0H1BALQUBPwcBnYFAuxGPG0Q8+NGEuxcEWAqUiN+lauYWrpFzsnfef9dDs3qJm3zxmg1b5jOgyxzs30ZeS0FTsAaBjoTudgqXYBEcPWd4x40ifykzOchedK7WYe0dQkvHNYhRab3c6x99vOwzf0+ntTmbDIYOIxytIoPNMCCFEbQJ6CvnydBZLclMMqGl+x45f3+ahLSNSWm2CfvDZ8CO2IPD3CtL31vhrvHg5mwyZbMwidllwCkKtDcLGKsRUf21AgUllbj0xzR5NbeHRDQNk4NXR7DH+s90363f4LrSO/a1VX6LnEAWs1mbM3OwWYWQWgTYzggoSPFBQ4sVYZYxvF14E8tP3SLpV0eJ0Dgidd0bx86QQPMn3l94O7P5f8icVQajCsEU/l0vojjdB0UVF5E/NIlFef1YVXYbb+YPEqN5lFzt/dWRFa/G97m6bUxdCssmS8DLuFkMNLMGPLssgLQKuFPFo7tEjajoUNju/QXfmmEsLRzCR6W/wDY+g6SsY3braQ3qv+MLuClaZ6w0WOyYKrSJGChVwVasdM6fUijaRfRXCDiV6oOM7By0P3iKhVTliZsTqLrYSFJ3y6WeCiNbb+YoqA9tRqbGQS+Q7mJ/RKXkYHfaUVwpVIMWtFPpo1oeuCIic68fLL13oagbgfnuEyQk7MGTOrVELIFsnY2jcRpgCqfMogPdRhyOVeBQcT3yKs3YH+ULdBnYPWqdhqHTgLx9SlS39kBVex81/aNIjg8l00066QWDAtHKXxq9qMHTxgCpIE1LEiL9EbNLh4iwAMRH+iE/VYuJeh1un1VRoIja4xpsFmIQfKQc8vAsZMRqWK2+ADYJbZxpB1+UlHUYWpPJfjLNn6DHSMozFSikZYJeI06m+kEdGIyIpHRU5eopVI/IcD1is04gIDic/PkDDUubwc7KjgKPc2t9wwaGH01CE5lhz9+nQGWOhoQlZiA0IQNVR7TIS/bBzv3fonNoFMGhJvqwHuM1Ar5J9MFghZbYW0TWABLr98mfeC9uxQaV93pV8MOsRBEXcpSOLfpw0I2wwxZdCM4fViExRoCv4St0lQQAtIwcLSKsRTyZbBRZndrRaWLqrHNfKm7Vp+vXpcSo7bhpxMEkAymtvY6yuhvIThKBAQPoPfSVqZ0xpJl0Fn9zQQDLvMQ6yUET9qSed3fC1Gr5Ajau3iQvH6zQ4UCMaiY7zl/KSfAjaXtU6ChQkbgIJUGH4WVv0ySQhjyd/XE9nV8LAv2wRDNGaZrClTt9dL8Lnbu6a8IvayPTsS9GB2aBvpkkR2vsipAD0u7oUOlhtU6iAGmiQbAPVugla4lI1xjw/LLghKWEbZ2v8tkomzW9YPne7JO482Ac6+SGET+tb3tGnIZm3oCh38ew99AplGYq0X/OhOtlBliLaX/X8laq1GkzNXzrfJ3vpnkbPNxlnCjqmULuw8+NB9w1EV2yldvWsnN0i54VhzS5a5URloQYo23GrLfZm8U2Gr/juCZ6veE6zymlMlPhqpRvlDEY+538BwfOxdIatEn1AAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;ML icon&quot; title=&quot;ML icon&quot; src=&quot;/blog/static/8faaea3c3efbc4de1440d79dd561d7ff/c5a17/ml-icon.png&quot; srcset=&quot;/blog/static/8faaea3c3efbc4de1440d79dd561d7ff/cf440/ml-icon.png 148w,
-/blog/static/8faaea3c3efbc4de1440d79dd561d7ff/d2d38/ml-icon.png 295w,
-/blog/static/8faaea3c3efbc4de1440d79dd561d7ff/c5a17/ml-icon.png 512w&quot; sizes=&quot;(max-width: 512px) 100vw, 512px&quot;&gt;
-    &lt;/span&gt;
+&lt;p align=&quot;left&quot;&gt;
+  &lt;img src=&quot;/blog/loss-3de99ae8c8c49073ddee2c3b6d8bfd43.gif&quot; alt=&quot;Loss gif&quot; width=&quot;50%&quot;&gt;
 &lt;/p&gt;
+&lt;a href=&quot;https://towardsdatascience.com/the-keys-of-deep-learning-in-100-lines-of-code-907398c76504&quot;&gt;Loss landscape&lt;/a&gt;
 &lt;p&gt;&lt;img src=&quot;https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&quot;&gt;
 &lt;img src=&quot;https://badges.frapsoft.com/os/v2/open-source.png?v=103&quot;&gt;&lt;/p&gt;
 &lt;h1&gt;Deep Learning Resources&lt;/h1&gt;
@@ -46,10 +42,6 @@
 &lt;/ul&gt;
 &lt;a name=&quot;1&quot;/&gt;
 &lt;h1&gt;1.  Deep Learning Theory&lt;/h1&gt;
-&lt;p align=&quot;left&quot;&gt;
-  &lt;img src=&quot;/blog/loss-3de99ae8c8c49073ddee2c3b6d8bfd43.gif&quot; alt=&quot;Loss gif&quot; width=&quot;50%&quot;&gt;
-&lt;/p&gt;
-&lt;a href=&quot;https://towardsdatascience.com/the-keys-of-deep-learning-in-100-lines-of-code-907398c76504&quot;&gt;Loss landscape&lt;/a&gt;
 &lt;p&gt;This section will provide useful links for an introduction into core Deep learning concepts from begginer to advanced level.&lt;/p&gt;
 &lt;p&gt;&lt;a name=&quot;s11&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;

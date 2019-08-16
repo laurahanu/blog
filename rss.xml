@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://github.com/laurahanu/blog/tree/gh-pages</link><generator>RSS for Node</generator><lastBuildDate>Fri, 16 Aug 2019 17:02:43 GMT</lastBuildDate><item><title><![CDATA[10 Fiction books I recommend]]></title><description><![CDATA[Here’s a list of fiction books I have really enjoyed. These are in no particular order. 1. The End of Eternity   What I liked  Isaac Asimov…]]></description><link>https://github.com/laurahanu/blog/tree/gh-pages/recommended-fiction-books/2019-08-16-favourite-fiction-books/</link><guid isPermaLink="false">https://github.com/laurahanu/blog/tree/gh-pages/recommended-fiction-books/2019-08-16-favourite-fiction-books/</guid><pubDate>Fri, 16 Aug 2019 13:29:00 GMT</pubDate><content:encoded>&lt;p&gt;Here’s a list of fiction books I have really enjoyed. These are in no particular order.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://github.com/laurahanu/blog/tree/gh-pages</link><generator>RSS for Node</generator><lastBuildDate>Fri, 16 Aug 2019 17:09:13 GMT</lastBuildDate><item><title><![CDATA[10 Fiction books I recommend]]></title><description><![CDATA[Here’s a list of fiction books I have really enjoyed. These are in no particular order. 1. The End of Eternity   What I liked  Isaac Asimov…]]></description><link>https://github.com/laurahanu/blog/tree/gh-pages/recommended-fiction-books/2019-08-16-favourite-fiction-books/</link><guid isPermaLink="false">https://github.com/laurahanu/blog/tree/gh-pages/recommended-fiction-books/2019-08-16-favourite-fiction-books/</guid><pubDate>Fri, 16 Aug 2019 13:29:00 GMT</pubDate><content:encoded>&lt;p&gt;Here’s a list of fiction books I have really enjoyed. These are in no particular order.&lt;/p&gt;
 &lt;h2&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_End_of_Eternity&quot;&gt;&lt;div style=&quot;text-align: left; color: #4b5b60&quot;&gt;1. The End of Eternity &lt;/div&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p align=&quot;left&quot;&gt;
   &lt;img src=&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405527675l/509784.jpg&quot; width=&quot;200px&quot;&gt;
@@ -100,13 +100,13 @@ Do check out if you have ever stared at your surroundings and started to contemp
 &lt;h3&gt;&lt;div style=&quot;text-align: left; color: #4b5b60&quot;&gt;  What I wish was better &lt;/div&gt;&lt;/h3&gt;
 &lt;p&gt;Not much to criticise here overall, I found the ideas stimulating and a more subtle, but relevant dystopia than Orwell’s 1984.&lt;/p&gt;
 &lt;h3&gt;&lt;div style=&quot;text-align: left; color: #4b5b60&quot;&gt;  Memorable quote &lt;/div&gt;&lt;/h3&gt;
-&lt;p&gt;“Actual happiness always looks pretty squalid in comparison with the overcompensations for misery.”&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Deep learning resources]]></title><description><![CDATA[Motivation The aim of this project is to provide a curated list of high-quality Deep Learning Resources that I have found valuable and…]]></description><link>https://github.com/laurahanu/blog/tree/gh-pages/machine-learning-resources/</link><guid isPermaLink="false">https://github.com/laurahanu/blog/tree/gh-pages/machine-learning-resources/</guid><pubDate>Thu, 08 Aug 2019 22:12:03 GMT</pubDate><content:encoded>&lt;p align=&quot;left&quot;&gt;
+&lt;p&gt;“Actual happiness always looks pretty squalid in comparison with the overcompensations for misery.”&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Deep learning resources]]></title><description><![CDATA[Motivation  The aim of this project is to provide a curated list of high-quality Deep Learning Resources that I have found valuable and…]]></description><link>https://github.com/laurahanu/blog/tree/gh-pages/machine-learning-resources/</link><guid isPermaLink="false">https://github.com/laurahanu/blog/tree/gh-pages/machine-learning-resources/</guid><pubDate>Thu, 08 Aug 2019 22:12:03 GMT</pubDate><content:encoded>&lt;p align=&quot;left&quot;&gt;
   &lt;img src=&quot;/blog/loss-3de99ae8c8c49073ddee2c3b6d8bfd43.gif&quot; alt=&quot;Loss gif&quot; width=&quot;50%&quot;&gt;
 &lt;/p&gt;
 &lt;a href=&quot;https://towardsdatascience.com/the-keys-of-deep-learning-in-100-lines-of-code-907398c76504&quot;&gt;Loss landscape&lt;/a&gt;
-&lt;h1&gt;Motivation&lt;/h1&gt;
+&lt;h2&gt;&lt;div style=&quot;text-align: left; color: #4b5b60&quot;&gt; Motivation &lt;/div&gt;&lt;/h2&gt;
 &lt;p&gt;The aim of this project is to provide a curated list of high-quality Deep Learning Resources that I have found valuable and insightful. These are organised into separate sections that can be seen in the Table of Contents below.&lt;/p&gt;
-&lt;h1&gt;Table of Contents&lt;/h1&gt;
+&lt;h2&gt;&lt;div style=&quot;text-align: left; color: #4b5b60&quot;&gt; Table of Contents &lt;/div&gt;&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&quot;#1&quot;&gt;Deep Learning Theory&lt;/a&gt;  &lt;/p&gt;
@@ -138,7 +138,7 @@ Do check out if you have ever stared at your surroundings and started to contemp
 &lt;li&gt;&lt;strong&gt;Nathan Benaich:&lt;/strong&gt; &lt;a href=&quot;https://www.stateof.ai/&quot;&gt;https://www.stateof.ai/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a name=&quot;1&quot;/&gt;
-&lt;h1&gt;1.  Deep Learning Theory&lt;/h1&gt;
+&lt;h2&gt;1.  Deep Learning Theory&lt;/h2&gt;
 &lt;p&gt;This section will provide useful links for an introduction into core Deep learning concepts from begginer to advanced level.&lt;/p&gt;
 &lt;p&gt;&lt;a name=&quot;s11&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -181,7 +181,7 @@ Do check out if you have ever stared at your surroundings and started to contemp
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;a name=&quot;2&quot;/&gt;
-&lt;h1&gt;2. Computer vision&lt;/h1&gt;
+&lt;h2&gt;2. Computer vision&lt;/h2&gt;
 &lt;p&gt;This section includes useful Github repositories to get going in training Computer vision algorithms.&lt;/p&gt;
 &lt;p&gt;&lt;a name=&quot;s21&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -236,7 +236,7 @@ Do check out if you have ever stared at your surroundings and started to contemp
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;a name=&quot;3&quot;/&gt;
-&lt;h1&gt;3.  Unsupervised learning&lt;/h1&gt;
+&lt;h2&gt;3.  Unsupervised learning&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;GAN lab &amp;#x26; visualisation&lt;/strong&gt; &lt;a href=&quot;https://poloclub.github.io/ganlab/&quot;&gt;https://poloclub.github.io/ganlab/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Style GAN&lt;/strong&gt; &lt;a href=&quot;https://github.com/NVlabs/stylegan&quot;&gt;https://github.com/NVlabs/stylegan&lt;/a&gt;&lt;/li&gt;
@@ -246,7 +246,7 @@ Do check out if you have ever stared at your surroundings and started to contemp
 &lt;li&gt;&lt;strong&gt;Vid2Vid&lt;/strong&gt; &lt;a href=&quot;https://tcwang0509.github.io/vid2vid/&quot;&gt;https://tcwang0509.github.io/vid2vid/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a name=&quot;4&quot;/&gt;
-&lt;h1&gt;4. Data Augmentation&lt;/h1&gt;
+&lt;h2&gt;4. Data Augmentation&lt;/h2&gt;
 &lt;p&gt;This section consists in a list of data augmentation packages that can be used for model training for a more robust and generalizable model.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Albumentations: Data transformation &amp;#x26; augmentation package in Numpy&lt;/strong&gt; &lt;a href=&quot;https://github.com/albu/albumentations&quot;&gt;https://github.com/albu/albumentations&lt;/a&gt;&lt;/li&gt;
@@ -257,7 +257,7 @@ Do check out if you have ever stared at your surroundings and started to contemp
 &lt;/ul&gt;
 &lt;a name=&quot;3&quot;/&gt;
 &lt;a name=&quot;5&quot;/&gt;
-&lt;h1&gt;5. Lectures or tutorials&lt;/h1&gt;
+&lt;h2&gt;5. Lectures or tutorials&lt;/h2&gt;
 &lt;p&gt;This section includes livestreams of TOP AI conferences or DL tutorials.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;ICML IJCAI ECAI 2018 Conference Videos&lt;/strong&gt; &lt;a href=&quot;https://www.youtube.com/channel/UCvqEpkx-HQ2nDMT-ob-AADg/videos&quot;&gt;https://www.youtube.com/channel/UCvqEpkx-HQ2nDMT-ob-AADg/videos&lt;/a&gt;&lt;/li&gt;
@@ -273,7 +273,7 @@ Do check out if you have ever stared at your surroundings and started to contemp
 &lt;li&gt;&lt;strong&gt;All posters from ICML 2019&lt;/strong&gt; &lt;a href=&quot;https://postersession.ai/&quot;&gt;https://postersession.ai/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a name=&quot;6&quot;/&gt;
-&lt;h1&gt;6. Explainable AI&lt;/h1&gt;
+&lt;h2&gt;6. Explainable AI&lt;/h2&gt;
 &lt;p&gt;This section has a selection of python packages that try to make DL model outcomes more explainable.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Seldon - Alibi&lt;/strong&gt; &lt;a href=&quot;https://github.com/SeldonIO/alibi&quot;&gt;https://github.com/SeldonIO/alibi&lt;/a&gt;&lt;/li&gt;
@@ -289,7 +289,7 @@ Do check out if you have ever stared at your surroundings and started to contemp
 &lt;li&gt;&lt;strong&gt;IBM fairness AI&lt;/strong&gt; &lt;a href=&quot;https://aif360.mybluemix.net/&quot;&gt;https://aif360.mybluemix.net/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a name=&quot;7&quot;/&gt;
-&lt;h1&gt;7.  Python &amp;#x26; ML Cheatsheets&lt;/h1&gt;
+&lt;h2&gt;7.  Python &amp;#x26; ML Cheatsheets&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Great talk about Expert-level python tricks &amp;#x26; concepts from PyData:&lt;/strong&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=cKPlPJyQrt4&quot;&gt;https://www.youtube.com/watch?v=cKPlPJyQrt4&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Python tips:&lt;/strong&gt; &lt;a href=&quot;http://book.pythontips.com/&quot;&gt;http://book.pythontips.com/&lt;/a&gt;&lt;/li&gt;
@@ -297,7 +297,7 @@ Do check out if you have ever stared at your surroundings and started to contemp
 &lt;li&gt;&lt;strong&gt;Python 3 Tricks&lt;/strong&gt; &lt;a href=&quot;https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/&quot;&gt;https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a name=&quot;8&quot;/&gt;
-&lt;h1&gt;8.  Cool DL examples &amp;#x26; repos&lt;/h1&gt;
+&lt;h2&gt;8.  Cool DL examples &amp;#x26; repos&lt;/h2&gt;
 &lt;p&gt;This section includes some cool models, tricks and miscellaneous DL Github repos.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Kito - a Keras inference time optimizer&lt;/strong&gt; &lt;a href=&quot;https://github.com/ZFTurbo/Keras-inference-time-optimizer&quot;&gt;https://github.com/ZFTurbo/Keras-inference-time-optimizer&lt;/a&gt;&lt;/li&gt;
@@ -318,7 +318,7 @@ Do check out if you have ever stared at your surroundings and started to contemp
 &lt;li&gt;&lt;strong&gt;3D deep learning from BMVA&lt;/strong&gt; &lt;a href=&quot;https://bmva.weebly.com/20th-feb-deep-learning-in-3d.html?platform=hootsuite&quot;&gt;https://bmva.weebly.com/20th-feb-deep-learning-in-3d.html?platform=hootsuite&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;a name=&quot;9&quot;/&gt;
-&lt;h1&gt;9. AI newsletters &amp;#x26; blogs&lt;/h1&gt;
+&lt;h2&gt;&lt;div style=&quot;text-align: left; color: #4b5b60&quot;&gt; 9. AI newsletters &amp;#x26; blogs &lt;/div&gt;&lt;/h2&gt;
 &lt;p&gt;This section includes some newsletters and personal blogs I have found interesting and worth reading.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Nathan.ai&lt;/strong&gt; &lt;a href=&quot;http://newsletter.airstreet.com/&quot;&gt;http://newsletter.airstreet.com/&lt;/a&gt;&lt;/li&gt;

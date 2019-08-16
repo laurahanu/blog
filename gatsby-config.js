@@ -1,11 +1,13 @@
 module.exports = {
+    pathPrefix: `/blog`,
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
+    title: `Blog`,
+    author: `Laura Hanu`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://github.com/laurahanu/blog/tree/gh-pages`,
+    pathPrefix: `/blog`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `hanulaura`,
     },
   },
   plugins: [
@@ -57,9 +59,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `Blog`,
         short_name: `GatsbyJS`,
-        start_url: `/`,
+        start_url: `/blog/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,

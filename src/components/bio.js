@@ -16,7 +16,7 @@ const Bio = () => {
     query BioQuery {
       avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
         childImageSharp {
-          fixed(width: 50, height: 50) {
+          fixed(width: 500, height: 500, quality:100) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -37,29 +37,33 @@ const Bio = () => {
     <div
       style={{
         display: `flex`,
-        marginBottom: rhythm(2.5),
+        marginBottom: rhythm(2.2),
+
       }}
     >
       <Image
         fixed={data.avatar.childImageSharp.fixed}
         alt={author}
         style={{
-          marginRight: rhythm(1 / 2),
+
+          marginRight: rhythm(0.5),
+	  marginTop: -20,
           marginBottom: 0,
-          minWidth: 50,
-          borderRadius: `100%`,
+          minWidth: 70,
+	  width: 70,
+          height: 70,
+	  quality: 100,
+          borderRadius: `50%`,
+
         }}
         imgStyle={{
-          borderRadius: `50%`,
+          borderRadius: `0%`,
+	  quality: 100
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        This is my blog page where I mostly write about data science and machine learning.
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a>
       </p>
     </div>
   )

@@ -20,8 +20,11 @@ class BlogPostTemplate extends React.Component {
         />
         <h1
           style={{
+            fontFamily: `Lato`,
+	    fontWeight: 100,
             marginTop: rhythm(1),
             marginBottom: 0,
+	    color: `#4b5b60`
           }}
         >
           {post.frontmatter.title}
@@ -31,6 +34,10 @@ class BlogPostTemplate extends React.Component {
             ...scale(-1 / 5),
             display: `block`,
             marginBottom: rhythm(1),
+            fontFamily: `Lato`,
+            fontFamily: `Lato`,
+	    fontWeight: 300,
+	    color: `#4b5b60`
           }}
         >
           {post.frontmatter.date}
@@ -39,17 +46,22 @@ class BlogPostTemplate extends React.Component {
         <hr
           style={{
             marginBottom: rhythm(1),
+            fontFamily: `Lato`,
+	    fontWeight: 100,
+	    color: `#4b5b60`
           }}
         />
         <Bio />
 
         <ul
           style={{
+            fontFamily: `Lato`,
             display: `flex`,
             flexWrap: `wrap`,
             justifyContent: `space-between`,
             listStyle: `none`,
             padding: 0,
+	    color: `#4b5b60`
           }}
         >
           <li>

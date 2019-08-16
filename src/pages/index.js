@@ -2,6 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
+import about from "../components/about"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
@@ -13,22 +14,28 @@ class BlogIndex extends React.Component {
     const posts = data.allMarkdownRemark.edges
 
     return (
+
       <Layout location={this.props.location} title={siteTitle}>
+        <about title="about"/>
         <SEO title="All posts" />
-        <Bio />
+        <Bio/>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
             <div key={node.fields.slug}>
-              <h3
+              <h2
                 style={{
                   marginBottom: rhythm(1 / 4),
+		  boxShadow: `none`,
+		  fontFamily: `Lato`,
+		  fontWeight: 400,
+	          color: `#629ca7`,
                 }}
               >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                <Link style={{ boxShadow: `none`,color: `#629ca7`, fontSize: 26 }} to={node.fields.slug}>
                   {title}
                 </Link>
-              </h3>
+              </h2>
               <small>{node.frontmatter.date}</small>
               <p
                 dangerouslySetInnerHTML={{
@@ -38,6 +45,7 @@ class BlogIndex extends React.Component {
             </div>
           )
         })}
+
       </Layout>
     )
   }

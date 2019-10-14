@@ -21,17 +21,18 @@ class BlogPostTemplate extends React.Component {
         <h1
           style={{
             fontFamily: `Lato`,
-	    fontWeight: 100,
-            marginTop: rhythm(1),
-            marginBottom: 0,
-	    color: `#4b5b60`
+	    fontWeight: 300,
+            marginTop: rhythm(3.5),
+            marginBottom: rhythm(3.5),
+	    textAlign: `center`,
+	    color: `#629ca7`
           }}
         >
           {post.frontmatter.title}
         </h1>
         <p
           style={{
-            ...scale(-1 / 5),
+            ...scale(0.4),
             display: `block`,
             marginBottom: rhythm(1),
             fontFamily: `Lato`,

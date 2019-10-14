@@ -39,10 +39,10 @@ class Layout extends React.Component {
 	    <div class="container">
 	      <div class="navbar-header">
 		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse"> <i class="fa fa-bars"></i> </button>
-		<a class="navbar-brand page-scroll" href="#page-top">Laura Hanu</a> </div>
+		<a class="navbar-brand page-scroll" href="https://laurahanu.github.io/">Laura Hanu</a> </div>
 		  <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
 		    <ul class="nav navbar-nav">
-		      <li class="hidden"> <a href="#page-top"></a> </li>
+		      <li class="hidden"> <a href="https://laurahanu.github.io/"></a> </li>
 		      <li> <a class="page-scroll" href="https://laurahanu.github.io/#about">About</a> </li>
 		      <li> <a class="page-scroll" href="https://laurahanu.github.io/#projects">Projects</a> </li>
 		      <li> <a class="page-scroll" href="https://laurahanu.github.io/#resume">Timeline</a> </li>
@@ -61,7 +61,7 @@ class Layout extends React.Component {
 
 
 
-        <main style={{marginLeft: `auto`, marginRight: `auto`, fontWeight: 350, fontSize: 15, maxWidth: rhythm(34), paddingBottom: 20,  marginTop: 20, paddingLeft: 0, paddingRight: 0, marginBottom: 20}} >
+        <main style={{marginLeft: `auto`, marginRight: `auto`, fontWeight: 300, fontSize: 15, maxWidth: rhythm(34), paddingBottom: 20,  marginTop: 20, paddingLeft: 0, paddingRight: 0, marginBottom: 20}} >
 			<div class="col-md-12 text-center center">
 		      <h5  style={{fontFamily: `Lato`, fontSize: 28, textAlign: 'center', color:'#4b5b60'}}>Blog</h5>
 		      <hr style={{marginTop:-20}}/>

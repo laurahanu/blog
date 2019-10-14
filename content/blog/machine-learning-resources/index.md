@@ -4,25 +4,20 @@ date: "2019-08-08T22:12:03.284Z"
 description: "Some machine learning that I have found useful over time."
 ---
 
-
-#  Deep Learning Resources
-
 <p align="left">
   <img src="loss.gif" alt="Loss gif" width="50%">
 </p>
 <a href="https://towardsdatascience.com/the-keys-of-deep-learning-in-100-lines-of-code-907398c76504">Loss landscape</a>
 
 
-![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-![](https://badges.frapsoft.com/os/v2/open-source.png?v=103)
 
 
-# Motivation
+## <div style="text-align: left; color: #4b5b60"> Motivation </div>
 
 
 The aim of this project is to provide a curated list of high-quality Deep Learning Resources that I have found valuable and insightful. These are organised into separate sections that can be seen in the Table of Contents below.
 
-# Table of Contents  
+##  <div style="text-align: left; color: #4b5b60"> Table of Contents </div>
 1. [Deep Learning Theory](#1)  
     * [Quick Intro](#s11)
     * [Beginner](#s12)
@@ -48,7 +43,7 @@ First, a quick catch-up into the **State of the Art in Deep learning 2019**:*
 
 <a name="1"/>
 
-# 1.  Deep Learning Theory
+## 1.  Deep Learning Theory
 
 
 This section will provide useful links for an introduction into core Deep learning concepts from begginer to advanced level.
@@ -101,7 +96,7 @@ This section will provide useful links for an introduction into core Deep learni
 
 <a name="2"/>
 
-# 2. Computer vision
+## 2. Computer vision
 
 
 This section includes useful Github repositories to get going in training Computer vision algorithms.
@@ -172,7 +167,7 @@ This section includes useful Github repositories to get going in training Comput
 
 <a name="3"/>
 
-# 3.  Unsupervised learning
+## 3.  Unsupervised learning
 
 * **GAN lab & visualisation** <https://poloclub.github.io/ganlab/>
 
@@ -189,7 +184,7 @@ This section includes useful Github repositories to get going in training Comput
 
 <a name="4"/>
 
-# 4. Data Augmentation
+## 4. Data Augmentation
 
 This section consists in a list of data augmentation packages that can be used for model training for a more robust and generalizable model.
 
@@ -209,7 +204,7 @@ This section consists in a list of data augmentation packages that can be used f
 
 <a name="5"/>
 
-# 5. Lectures or tutorials
+## 5. Lectures or tutorials
 
 This section includes livestreams of TOP AI conferences or DL tutorials.
 
@@ -238,7 +233,7 @@ This section includes livestreams of TOP AI conferences or DL tutorials.
 
 <a name="6"/>
 
-# 6. Explainable AI
+## 6. Explainable AI
 
 This section has a selection of python packages that try to make DL model outcomes more explainable.
 
@@ -268,7 +263,7 @@ This section has a selection of python packages that try to make DL model outcom
 
 <a name="7"/>
 
-# 7.  Python & ML Cheatsheets
+## 7.  Python & ML Cheatsheets
 
 * **Great talk about Expert-level python tricks & concepts from PyData:** <https://www.youtube.com/watch?v=cKPlPJyQrt4>
 
@@ -282,7 +277,7 @@ This section has a selection of python packages that try to make DL model outcom
 
 <a name="8"/>
 
-# 8.  Cool DL examples & repos
+## 8.  Cool DL examples & repos
 
 This section includes some cool models, tricks and miscellaneous DL Github repos.
 
@@ -321,8 +316,7 @@ This section includes some cool models, tricks and miscellaneous DL Github repos
 
 <a name="9"/>
 
-# 9. AI newsletters & blogs
-
+##  9. AI newsletters & blogs 
 This section includes some newsletters and personal blogs I have found interesting and worth reading.
 
 * **Nathan.ai** <http://newsletter.airstreet.com/>
